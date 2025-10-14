@@ -6,7 +6,6 @@ _Check out my portfolio site to learn more about me and what I've been working o
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat-square" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" />
