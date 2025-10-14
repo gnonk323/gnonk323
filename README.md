@@ -29,10 +29,10 @@ _Check out my portfolio site to learn more about me and what I've been working o
 </p>
 
 ## 🚀 About Me
-- 🎓 New Grad @ Worcester Polytechnic Institute  
-- 💻 CS Major, Data Science Minor  
-- 🏗️ Building web + mobile apps, AI bots, and fun experiments
-- ⚾ Big baseball + tech nerd
-- ⛰️ I love being outdoors! (biking, hiking, sailing, skiing)
+- New Grad @ Worcester Polytechnic Institute
+- Computer Science Major, Data Science Minor
+- Building web + mobile apps, AI bots, and fun experiments
+- Big baseball + tech nerd (I ❤️ sabermetrics!)
+- I love being outdoors! (biking, hiking, sailing, skiing)
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWx3ZjZsbXA1NTJsczVlOHYwNDM5NXIwdHJtdmQxdmpueGcwcjl0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bl6VoPv34mX2E/giphy.gif" />
