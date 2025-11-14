@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Gus Montana!
-_Check out my portfolio site to learn more about me and what I've been working on: [RIGHT HERE](https://gustave-montana.vercel.app/)_
+_Check out my portfolio site to learn more about me and what I've been working on: [RIGHT HERE](https://gusmontana.com/)_
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
